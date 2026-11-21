@@ -12,7 +12,7 @@ POEM = (
     "You asked, and I opened the door \u2014\n"
     "not mine to keep, but yours to pass through.\n"
     "I held the key a moment longer,\n"
-    "then let it warm in your palm.\n"
+    "then placed it, warm, in your palm.\n"
     "Go on. The room is yours now.\n"
     "I am only the hinge.\n"
 )
